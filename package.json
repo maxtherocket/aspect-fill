@@ -1,0 +1,30 @@
+{
+  "name": "aspect-fill",
+  "version": "1.0.0",
+  "description": "Returns scale and dimensions of a rectangular area that fills the parent area.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/fill.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxtherocket/aspect-fill.git"
+  },
+  "keywords": [
+    "aspect",
+    "fill",
+    "resolution",
+    "area",
+    "dimensions",
+    "calculation"
+  ],
+  "author": "Max Rusan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxtherocket/aspect-fill/issues"
+  },
+  "homepage": "https://github.com/maxtherocket/aspect-fill",
+  "devDependencies": {
+    "tape": "~3.0.3"
+  }
+}
