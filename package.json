@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/maxtherocket/aspect-fill",
   "devDependencies": {
-    "tape": "~3.0.3"
+    "tape": "~4.4.0"
   }
 }
