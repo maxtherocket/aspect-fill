@@ -6,6 +6,8 @@
 
 Returns scale and dimensions of a rectangular area that fills the parent area.
 
+See [aspect-fit](http://github.com/maxtherocket/aspect-fit) for a **fit** calculation
+
 ## Example
 
 ```js

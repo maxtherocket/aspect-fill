@@ -1,6 +1,6 @@
 {
   "name": "aspect-fill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns scale and dimensions of a rectangular area that fills the parent area.",
   "main": "index.js",
   "scripts": {
